@@ -1,0 +1,10 @@
+---
+name: ai-notebooks
+dependencies:
+  - python=3.7
+  - numpy
+  - matplotlib
+  - jupyter
+  - pytorch
+  - torchvision
+  - cudatoolkit=10.1
