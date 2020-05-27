@@ -3,6 +3,7 @@ name: ai-notebooks
 dependencies:
   - python=3.7
   - numpy
+  - scikit-learn
   - matplotlib
   - jupyter
   - pytorch
